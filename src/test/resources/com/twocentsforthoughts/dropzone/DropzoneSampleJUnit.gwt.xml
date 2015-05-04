@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="DropzoneSample">
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='com.twocentsforthoughts.dropzone.DropzoneSample' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/DropzoneSample/greet" class="com.twocentsforthoughts.dropzone.server.GreetingServiceImpl" />
+
+</module>
