@@ -5,16 +5,15 @@
 
 <web-app>
 
-  <!-- Servlets -->
-  <servlet>
-    <servlet-name>greetServlet</servlet-name>
-    <servlet-class>com.twocentsforthoughts.dropzone.server.GreetingServiceImpl</servlet-class>
-  </servlet>
 
-  <servlet-mapping>
-    <servlet-name>greetServlet</servlet-name>
-    <url-pattern>/DropzoneSample/greet</url-pattern>
-  </servlet-mapping>
+    <servlet>
+        <servlet-name>UploadServlet</servlet-name>
+        <servlet-class>com.twocentsforthoughts.dropzone.server.FileUploadServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UploadServlet</servlet-name>
+        <url-pattern>/upload</url-pattern>
+    </servlet-mapping>
 
   <!-- Default page to serve -->
   <welcome-file-list>
