@@ -62,7 +62,7 @@
         <dependency>
         	<groupId>com.github.andrezimmermann</groupId>
         	<artifactId>dropzone-gwt</artifactId>
-        	<version>0.0.4-SNAPSOT</version>
+        	<version>0.0.3</version>
         </dependency>
     </dependencies>
 
@@ -92,7 +92,7 @@
                 <configuration>
                     <runTarget>DropzoneSample.html</runTarget>
                     <modules>
-                        <module>com.twocentsforthoughts.dropzone.DropzoneSample</module>
+                        <module>com.github.andrezimmermann.dropzone.DropzoneSample</module>
                     </modules>
                 </configuration>
             </plugin>

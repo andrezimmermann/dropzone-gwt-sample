@@ -1,4 +1,4 @@
-package com.twocentsforthoughts.dropzone.client;
+package com.github.andrezimmermann.dropzone.client;
 
 import com.github.andrezimmermann.dropzone.client.Dropzone;
 import com.github.andrezimmermann.dropzone.client.interfaces.DropzoneOptions;

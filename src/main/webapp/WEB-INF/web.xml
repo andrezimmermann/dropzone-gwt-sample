@@ -8,7 +8,7 @@
 
     <servlet>
         <servlet-name>UploadServlet</servlet-name>
-        <servlet-class>com.twocentsforthoughts.dropzone.server.FileUploadServlet</servlet-class>
+        <servlet-class>com.github.andrezimmermann.dropzone.server.FileUploadServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>UploadServlet</servlet-name>

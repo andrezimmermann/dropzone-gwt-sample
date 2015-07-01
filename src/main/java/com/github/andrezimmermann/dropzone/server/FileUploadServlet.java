@@ -1,4 +1,4 @@
-package com.twocentsforthoughts.dropzone.server;
+package com.github.andrezimmermann.dropzone.server;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
