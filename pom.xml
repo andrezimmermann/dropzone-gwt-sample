@@ -60,9 +60,9 @@
         </dependency>
 
         <dependency>
-            <groupId>twocentsforthoughts</groupId>
-            <artifactId>dropzone-gwt</artifactId>
-            <version>0.0.1</version>
+        	<groupId>com.github.andrezimmermann</groupId>
+        	<artifactId>dropzone-gwt</artifactId>
+        	<version>0.0.4-SNAPSOT</version>
         </dependency>
     </dependencies>
 

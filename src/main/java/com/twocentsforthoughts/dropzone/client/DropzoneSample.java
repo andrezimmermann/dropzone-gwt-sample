@@ -1,9 +1,10 @@
 package com.twocentsforthoughts.dropzone.client;
 
+import com.github.andrezimmermann.dropzone.client.Dropzone;
+import com.github.andrezimmermann.dropzone.client.interfaces.DropzoneOptions;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.SimplePanel;
-import com.twocentsforthoughts.dropzone.client.interfaces.DropzoneOptions;
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
