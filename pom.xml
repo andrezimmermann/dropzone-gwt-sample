@@ -5,7 +5,7 @@
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>twocentsforthoughts</groupId>
+    <groupId>com.github.andrezimmermann</groupId>
     <artifactId>dropzone-sample</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
@@ -62,7 +62,7 @@
         <dependency>
         	<groupId>com.github.andrezimmermann</groupId>
         	<artifactId>dropzone-gwt</artifactId>
-        	<version>0.0.3</version>
+        	<version>0.0.4-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
